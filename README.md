@@ -2,4 +2,4 @@
 
 Course materials
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bgagl/ML_Individual_Differences/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fbgagl%2FML_Individual_Differences%2Fblob%2Fmain%2FIntroduction.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bgagl/ML_Individual_Differences/HEAD?urlpath=/tree/)
