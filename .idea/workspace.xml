@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="get ready">
-      <change afterPath="$PROJECT_DIR$/.idea/ML_Individual_Differences.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Dataframes and data handling-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dataframes and data handling.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/classifier_comparison.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ml_basics.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sphx_glr_plot_classifier_comparison_001.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Dataframes and data handling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Dataframes and data handling-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Introduction-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Introduction-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/python basics-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/python basics-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataframes and data handling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dataframes and data handling.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python basics.ipynb" afterDir="false" />
     </list>
@@ -131,7 +123,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673423659603</updated>
-      <workItem from="1673423662548" duration="1239000" />
+      <workItem from="1673423662548" duration="2449000" />
     </task>
     <task id="LOCAL-00012" summary="get ready">
       <created>1673423692377</created>
@@ -147,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673450211904</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="get ready">
+      <created>1673453262185</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673453262185</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
