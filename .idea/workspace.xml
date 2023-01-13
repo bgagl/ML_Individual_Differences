@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="get ready" />
+    <list default="true" id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="get ready">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Dataframes and data handling-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Dataframes and data handling-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/python basics-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/python basics-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dataframes and data handling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dataframes and data handling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python basics.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673423659603</updated>
-      <workItem from="1673423662548" duration="8803000" />
+      <workItem from="1673423662548" duration="10763000" />
     </task>
     <task id="LOCAL-00012" summary="get ready">
       <created>1673423692377</created>
@@ -243,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673613816425</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="get ready">
+      <created>1673614592430</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1673614592430</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
