@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="get ready">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regressions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Regressions.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +118,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673423659603</updated>
       <workItem from="1673423662548" duration="14201000" />
-      <workItem from="1674027575734" duration="6369000" />
+      <workItem from="1674027575734" duration="7394000" />
     </task>
     <task id="LOCAL-00012" summary="get ready">
       <created>1673423692377</created>
@@ -331,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674207894202</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="get ready">
+      <created>1674218116583</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1674218116583</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
