@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="SoSe 2023" />
+    <list default="true" id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="SoSe 2023">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,34 +44,6 @@
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="LOCAL-00008" summary="s">
-      <created>1673366098774</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1673366098774</updated>
-    </task>
-    <task id="LOCAL-00009" summary="get ready">
-      <created>1673376528900</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1673376528900</updated>
-    </task>
-    <task id="LOCAL-00010" summary="get ready">
-      <created>1673376560831</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1673376560831</updated>
-    </task>
-    <task id="LOCAL-00011" summary="get ready">
-      <created>1673386050234</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1673386050234</updated>
-    </task>
     <task active="true" id="Default" summary="Default task">
       <changelist id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="get ready" />
       <created>1673423659603</created>
@@ -84,7 +58,7 @@
       <workItem from="1676906312007" duration="210000" />
       <workItem from="1676906580964" duration="643000" />
       <workItem from="1684735526709" duration="11985000" />
-      <workItem from="1684834845185" duration="1021000" />
+      <workItem from="1684834845185" duration="1655000" />
     </task>
     <task id="LOCAL-00012" summary="get ready">
       <created>1673423692377</created>
@@ -401,7 +375,35 @@
       <option name="project" value="LOCAL" />
       <updated>1684835815488</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="SoSe 2023">
+      <created>1684835967994</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1684835967994</updated>
+    </task>
+    <task id="LOCAL-00058" summary="SoSe 2023">
+      <created>1684836048860</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1684836048860</updated>
+    </task>
+    <task id="LOCAL-00059" summary="SoSe 2023">
+      <created>1684836195613</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1684836195613</updated>
+    </task>
+    <task id="LOCAL-00060" summary="SoSe 2023">
+      <created>1684836409622</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1684836409622</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
