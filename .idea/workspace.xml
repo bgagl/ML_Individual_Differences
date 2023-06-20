@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="SoSe 2023">
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Categorization_individual_differences-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Categorization_individual_differences-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Categorization_individual_differences.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Categorization_individual_differences.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine learning basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine learning basics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Clustering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regressions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Regressions.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,20 +29,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,27 +62,7 @@
       <workItem from="1684834845185" duration="2078000" />
       <workItem from="1684867074711" duration="703000" />
       <workItem from="1687175899270" duration="5617000" />
-    </task>
-    <task id="LOCAL-00021" summary="get ready">
-      <created>1673610116463</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1673610116463</updated>
-    </task>
-    <task id="LOCAL-00022" summary="get ready">
-      <created>1673610195186</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1673610195186</updated>
-    </task>
-    <task id="LOCAL-00023" summary="get ready">
-      <created>1673610479688</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1673610479688</updated>
+      <workItem from="1687263271131" duration="3374000" />
     </task>
     <task id="LOCAL-00024" summary="get ready">
       <created>1673610827332</created>
@@ -407,7 +386,28 @@
       <option name="project" value="LOCAL" />
       <updated>1687182641810</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="SoSe 2023">
+      <created>1687263330680</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1687263330681</updated>
+    </task>
+    <task id="LOCAL-00071" summary="SoSe 2023">
+      <created>1687264582569</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1687264582569</updated>
+    </task>
+    <task id="LOCAL-00072" summary="SoSe 2023">
+      <created>1687269508620</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1687269508620</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
