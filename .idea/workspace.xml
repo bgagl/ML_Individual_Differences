@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="SoSe 2023">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Categorization_individual_differences-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Categorization_individual_differences-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Categorization_individual_differences.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Categorization_individual_differences.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine learning basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine learning basics.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,34 +62,7 @@
       <workItem from="1684735526709" duration="11985000" />
       <workItem from="1684834845185" duration="2078000" />
       <workItem from="1684867074711" duration="703000" />
-    </task>
-    <task id="LOCAL-00017" summary="get ready">
-      <created>1673513464783</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1673513464783</updated>
-    </task>
-    <task id="LOCAL-00018" summary="get ready">
-      <created>1673513560507</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1673513560507</updated>
-    </task>
-    <task id="LOCAL-00019" summary="get ready">
-      <created>1673513616382</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1673513616382</updated>
-    </task>
-    <task id="LOCAL-00020" summary="get ready">
-      <created>1673513662225</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1673513662225</updated>
+      <workItem from="1687175899270" duration="5617000" />
     </task>
     <task id="LOCAL-00021" summary="get ready">
       <created>1673610116463</created>
@@ -404,7 +379,35 @@
       <option name="project" value="LOCAL" />
       <updated>1684867340577</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="SoSe 2023">
+      <created>1687175999835</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1687175999836</updated>
+    </task>
+    <task id="LOCAL-00067" summary="SoSe 2023">
+      <created>1687181157507</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1687181157508</updated>
+    </task>
+    <task id="LOCAL-00068" summary="SoSe 2023">
+      <created>1687182491038</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1687182491038</updated>
+    </task>
+    <task id="LOCAL-00069" summary="SoSe 2023">
+      <created>1687182641810</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1687182641810</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
