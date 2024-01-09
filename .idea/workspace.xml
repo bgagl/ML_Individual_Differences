@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="SoSe 2023">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Visualization in python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Visualization in python.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="WiSe 2023/24" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,21 +26,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/bg/PycharmProjects/ML_Individual_Differences",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bg/PycharmProjects/ML_Individual_Differences&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -71,20 +68,7 @@
       <workItem from="1687263271131" duration="3374000" />
       <workItem from="1687277200432" duration="1214000" />
       <workItem from="1692881101800" duration="1461000" />
-    </task>
-    <task id="LOCAL-00026" summary="get ready">
-      <created>1673612285197</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1673612285197</updated>
-    </task>
-    <task id="LOCAL-00027" summary="get ready">
-      <created>1673612998204</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1673612998205</updated>
+      <workItem from="1704790650139" duration="6084000" />
     </task>
     <task id="LOCAL-00028" summary="get ready">
       <created>1673613484318</created>
@@ -415,7 +399,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687279263886</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="WiSe 2023/24">
+      <created>1704791807130</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1704791807131</updated>
+    </task>
+    <task id="LOCAL-00076" summary="WiSe 2023/24">
+      <created>1704809739390</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1704809739390</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,6 +446,7 @@
     <MESSAGE value="s" />
     <MESSAGE value="get ready" />
     <MESSAGE value="SoSe 2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="SoSe 2023" />
+    <MESSAGE value="WiSe 2023/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="WiSe 2023/24" />
   </component>
 </project>
