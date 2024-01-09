@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="SoSe 2023">
-      <change beforePath="$PROJECT_DIR$/Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Clustering.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regressions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Regressions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Visualization in python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Visualization in python.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/bg/PycharmProjects/ML_Individual_Differences",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -43,6 +44,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,20 +69,8 @@
       <workItem from="1684867074711" duration="703000" />
       <workItem from="1687175899270" duration="5617000" />
       <workItem from="1687263271131" duration="3374000" />
-    </task>
-    <task id="LOCAL-00024" summary="get ready">
-      <created>1673610827332</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1673610827332</updated>
-    </task>
-    <task id="LOCAL-00025" summary="get ready">
-      <created>1673610874796</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1673610874796</updated>
+      <workItem from="1687277200432" duration="1214000" />
+      <workItem from="1692881101800" duration="1461000" />
     </task>
     <task id="LOCAL-00026" summary="get ready">
       <created>1673612285197</created>
@@ -407,7 +401,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687269508620</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="SoSe 2023">
+      <created>1687277209865</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1687277209865</updated>
+    </task>
+    <task id="LOCAL-00074" summary="SoSe 2023">
+      <created>1687279263885</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1687279263886</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
