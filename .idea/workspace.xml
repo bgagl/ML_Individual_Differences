@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="WiSe 2023/24" />
+    <list default="true" id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="WiSe 2023/24">
+      <change beforePath="$PROJECT_DIR$/Machine learning basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine learning basics.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,20 +72,7 @@
       <workItem from="1692881101800" duration="1461000" />
       <workItem from="1704790650139" duration="6084000" />
       <workItem from="1704809755434" duration="2359000" />
-    </task>
-    <task id="LOCAL-00030" summary="get ready">
-      <created>1673614592430</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1673614592430</updated>
-    </task>
-    <task id="LOCAL-00031" summary="get ready">
-      <created>1673643749178</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1673643749178</updated>
+      <workItem from="1704875706803" duration="2220000" />
     </task>
     <task id="LOCAL-00032" summary="get ready">
       <created>1673685002430</created>
@@ -414,7 +403,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704810465728</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="WiSe 2023/24">
+      <created>1704877595250</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1704877595251</updated>
+    </task>
+    <task id="LOCAL-00080" summary="WiSe 2023/24">
+      <created>1704877688499</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1704877688499</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
