@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="WiSe 2023/24" />
+    <list default="true" id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="WiSe 2023/24">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python basics.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +50,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/stuff" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -73,20 +81,12 @@
       <workItem from="1704875706803" duration="2220000" />
       <workItem from="1704878904559" duration="1299000" />
       <workItem from="1704893965977" duration="1055000" />
-    </task>
-    <task id="LOCAL-00034" summary="get ready">
-      <created>1673688931138</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1673688931138</updated>
-    </task>
-    <task id="LOCAL-00035" summary="get ready">
-      <created>1673703234227</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1673703234227</updated>
+      <workItem from="1706024095728" duration="2077000" />
+      <workItem from="1706026557843" duration="1220000" />
+      <workItem from="1706100208941" duration="922000" />
+      <workItem from="1715847014175" duration="1826000" />
+      <workItem from="1716890282407" duration="728000" />
+      <workItem from="1718713547809" duration="1003000" />
     </task>
     <task id="LOCAL-00036" summary="get ready">
       <created>1673703661124</created>
@@ -417,7 +417,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704894423059</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="WiSe 2023/24">
+      <created>1706024947172</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1706024947173</updated>
+    </task>
+    <task id="LOCAL-00084" summary="WiSe 2023/24">
+      <created>1706026151990</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1706026151990</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
