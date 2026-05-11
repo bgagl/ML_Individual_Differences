@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="WiSe 2024/2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Machine learning basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine learning basics.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Visualization in python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Visualization in python.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Categorization_individual_differences.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Categorization_individual_differences.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Clustering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regressions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Regressions.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +26,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2KAiBxbT2xWS74EFiCAxxxIxnv8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -60,8 +62,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18968.29" />
-        <option value="bundled-python-sdk-f5635417b835-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18968.29" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.19416.19" />
+        <option value="bundled-python-sdk-337b0a7a993a-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.19416.19" />
       </set>
     </attachedChunks>
   </component>
@@ -98,7 +100,10 @@
       <workItem from="1715847014175" duration="1826000" />
       <workItem from="1716890282407" duration="728000" />
       <workItem from="1718713547809" duration="5595000" />
-      <workItem from="1733906363982" duration="3602000" />
+      <workItem from="1733906363982" duration="9147000" />
+      <workItem from="1736950552104" duration="3685000" />
+      <workItem from="1736954841417" duration="74000" />
+      <workItem from="1778476457897" duration="680000" />
     </task>
     <task id="LOCAL-00039" summary="get ready">
       <created>1674201723716</created>
@@ -443,7 +448,7 @@
       <option name="project" value="LOCAL" />
       <updated>1718804577854</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
