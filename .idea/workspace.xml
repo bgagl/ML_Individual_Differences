@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="848192d3-fecb-4bb6-9a67-ed3e1001195a" name="Changes" comment="SoSe 2026">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dataframes and data handling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dataframes and data handling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python basics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine learning basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine learning basics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Visualization in python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Visualization in python.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +101,7 @@
       <workItem from="1733906363982" duration="9147000" />
       <workItem from="1736950552104" duration="3685000" />
       <workItem from="1736954841417" duration="74000" />
-      <workItem from="1778476457897" duration="1646000" />
+      <workItem from="1778476457897" duration="4726000" />
     </task>
     <task id="LOCAL-00039" summary="get ready">
       <created>1674201723716</created>
@@ -446,7 +446,7 @@
       <option name="project" value="LOCAL" />
       <updated>1718804577854</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
